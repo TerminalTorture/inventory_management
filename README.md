@@ -53,18 +53,18 @@ npm run build
 This will generate the production files in the dist/ folder.
 
 # Running in Production
-## To preview the production build locally:
+ To preview the production build locally:
 
 sh
 npm run preview
 
 # Database Setup
-## This project uses a SQLite database (inventory.db). If you need to reset or migrate the database, consider using a migration tool like Prisma or handling it manually.
+ This project uses a SQLite database (inventory.db). If you need to reset or migrate the database, consider using a migration tool like Prisma or handling it manually.
 
 # Contribution
-## Feel free to submit issues or contribute by forking the repository and creating pull requests.
+ Feel free to submit issues or contribute by forking the repository and creating pull requests.
 
 # License
-## This project is licensed under the MIT License.
+ This project is licensed under the MIT License.
 
 
